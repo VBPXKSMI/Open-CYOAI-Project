@@ -3,7 +3,7 @@ name: Bug report
 about: Report a bug you encounter when using Colab
 title: "[BUG]"
 labels: bug
-assignees: ''
+assignees: machiavel23
 
 ---
 
